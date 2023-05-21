@@ -1,8 +1,11 @@
 import React from 'react'
+import MedicineForm from './MedicineForm/MedicineForm'
+
 
 const App = () => {
   return (
-    <div>App</div>
+    <div> 
+       <MedicineForm/></div>
   )
 }
 
